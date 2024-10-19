@@ -1,0 +1,1 @@
+The COVID-19 Testing Management System is a web-based platform designed to streamline the process of managing COVID-19 testing. It enables users to register for tests, schedule appointments, track test results, and manage patient data efficiently. The system ensures accurate reporting, reduces manual errors, and improves healthcare workflows.
